@@ -9,3 +9,8 @@ if x > y:
         print("Five is greater than two!") 
         print(z)
 
+x = 5
+y = "Hello, World!"
+
+#This is a comment.
+print("Hello, World!")
