@@ -53,3 +53,4 @@ for val in per:
     print(*val)
 
 #task6 - >  We are ready -> ready are We
+
